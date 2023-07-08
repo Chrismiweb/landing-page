@@ -1,0 +1,20 @@
+.Menubar{
+    width: 100%;
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.Menubar h1{
+    color: black;
+    font-family: monospace;
+}
+.Menubar button{
+    border-radius: 20px;
+    color: palevioletred;
+    padding: 10px 25px;
+    font-weight: bolder;
+    border: solid palevioletred;
+    cursor: pointer;
+}
